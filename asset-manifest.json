@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hermestesting/static/css/main.e6c13ad2.css",
+    "main.js": "/hermestesting/static/js/main.d77a0e6b.js",
+    "static/js/787.522343d3.chunk.js": "/hermestesting/static/js/787.522343d3.chunk.js",
+    "index.html": "/hermestesting/index.html",
+    "main.e6c13ad2.css.map": "/hermestesting/static/css/main.e6c13ad2.css.map",
+    "main.d77a0e6b.js.map": "/hermestesting/static/js/main.d77a0e6b.js.map",
+    "787.522343d3.chunk.js.map": "/hermestesting/static/js/787.522343d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d77a0e6b.js"
+  ]
+}

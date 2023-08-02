@@ -16,7 +16,7 @@ function StringDisplayApp() {
   return (
     <div>
       <h1>String Display App</h1>
-      <button onClick={fetchData}>Fetch Sting</button>
+      <button onClick={fetchData}>Fetch String</button>
       <textarea
         readOnly
         rows={5}

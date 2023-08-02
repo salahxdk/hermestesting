@@ -1,5 +1,5 @@
 {
-  "homepage": "https://salahxdk.github.io/hermestesting",
+  "homepage": "https://salahxdk.github.io/hermestesting/",
   "name": "hermestesting",
   "version": "0.1.0",
   "private": true,
@@ -19,7 +19,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d src"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
